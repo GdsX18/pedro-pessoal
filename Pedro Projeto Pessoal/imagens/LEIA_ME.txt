@@ -1,0 +1,4 @@
+Nesta pasta, você pode colocar todas as imagens e mídias que deseja usar no seu site.
+
+-- OUTRA OPÇÃO MUITO PRÁTICA --
+Você também pode simplesmente arrastar e soltar as imagens diretamente na janela do nosso chat! Eu me encarrego de pegar essas imagens e colocar nos lugares corretos de cada página HTML.
